@@ -1,0 +1,30 @@
+/*
+
+    Name:       Kimbie (Light)
+    Author:     Jan T. Sott
+
+*/
+
+.cm-s-kimbie-light.CodeMirror {background: #fbebd4; color: #5e452b;}
+.cm-s-kimbie-light div.CodeMirror-selected {background: #e4c6a5 !important;}
+.cm-s-kimbie-light .CodeMirror-gutters {background: #fbebd4; border-right: 0px;}
+.cm-s-kimbie-light .CodeMirror-linenumber {color: #d6baad;}
+.cm-s-kimbie-light .CodeMirror-cursor {border-left: 1px solid #a57a4c !important;}
+
+.cm-s-kimbie-light span.cm-comment {color: #18401e;}
+.cm-s-kimbie-light span.cm-atom {color: #98676a;}
+.cm-s-kimbie-light span.cm-number {color: #98676a;}
+
+.cm-s-kimbie-light span.cm-property, .cm-s-kimbie-light span.cm-attribute {color: #889b4a;}
+.cm-s-kimbie-light span.cm-keyword {color: #dc3958;}
+.cm-s-kimbie-light span.cm-string {color: #f06431;}
+
+.cm-s-kimbie-light span.cm-variable {color: #889b4a;}
+.cm-s-kimbie-light span.cm-variable-2 {color: #8ab1b0;}
+.cm-s-kimbie-light span.cm-def {color: #f79a32;}
+.cm-s-kimbie-light span.cm-error {background: #dc3958; color: #a57a4c;}
+.cm-s-kimbie-light span.cm-bracket {color: #5e452b;}
+.cm-s-kimbie-light span.cm-tag {color: #dc3958;}
+.cm-s-kimbie-light span.cm-link {color: #98676a;}
+
+.cm-s-kimbie-light .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
