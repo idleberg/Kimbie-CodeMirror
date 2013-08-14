@@ -1,0 +1,30 @@
+/*
+
+    Name:       Apple Pips (dark)
+    Author:     Jan T. Sott
+
+*/
+
+.cm-s-applepips-night.CodeMirror {background: #374546; color: #d5d5d5;}
+.cm-s-applepips-night div.CodeMirror-selected {background: #5a6161 !important;}
+.cm-s-applepips-night .CodeMirror-gutters {background: #374546; border-right: 0px;}
+.cm-s-applepips-night .CodeMirror-linenumber {color: #7d8182;}
+.cm-s-applepips-night .CodeMirror-cursor {border-left: 1px solid #929495 !important;}
+
+.cm-s-applepips-night span.cm-comment {color: #dacb6c;}
+.cm-s-applepips-night span.cm-atom {color: #ef91a1;}
+.cm-s-applepips-night span.cm-number {color: #ef91a1;}
+
+.cm-s-applepips-night span.cm-property, .cm-s-applepips-night span.cm-attribute {color: #78bb86;}
+.cm-s-applepips-night span.cm-keyword {color: #e92d46;}
+.cm-s-applepips-night span.cm-string {color: #efb554;}
+
+.cm-s-applepips-night span.cm-variable {color: #78bb86;}
+.cm-s-applepips-night span.cm-variable-2 {color: #00afd6;}
+.cm-s-applepips-night span.cm-def {color: #e16712;}
+.cm-s-applepips-night span.cm-error {background: #e92d46; color: #929495;}
+.cm-s-applepips-night span.cm-bracket {color: #d5d5d5;}
+.cm-s-applepips-night span.cm-tag {color: #e92d46;}
+.cm-s-applepips-night span.cm-link {color: #ef91a1;}
+
+.cm-s-applepips-night .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}
